@@ -1,0 +1,112 @@
+Events:
+  granja:
+     type: player_command
+     conditions:
+     - '%command% == /wither'
+     - '%player% == zTryh or %player% == Mati64'
+     actions:
+      default:
+       - 'cancel_event: true'
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 80"
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &4&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &4&k&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: [&f&m                                                      &r]'
+       - 'to_all: centered_message: &0&l¡WHITER &4POR 10S!'
+       - 'to_all: centered_message: [&f&m                                                      &r]'
+       - "wait_ticks: 50"
+       - "console_command: effect give @a minecraft:wither 10 2"
+  granja_1:
+     type: player_command
+     conditions:
+     - '%command% == /rayos'
+     - '%player% == zTryh or %player% == Mati64'
+     actions:
+      default:
+       - 'cancel_event: true'
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 80"
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &4&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &4&k&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: [&f&m                                                      &r]'
+       - 'to_all: centered_message: &1&l¡RAYOS PARA TODOS!'
+       - 'to_all: centered_message: [&f&m                                                      &r]'
+       - "wait_ticks: 80"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 50"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+  granja_2:
+     type: player_command
+     conditions:
+     - '%command% == /rayoswither'
+     - '%player% == zTryh or %player% == Mati64'
+     actions:
+      default:
+       - 'cancel_event: true'
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 80"
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &c&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &4&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: &4&k&l¿?'
+       - "wait_ticks: 75"
+       - 'to_all: centered_message: [&f&m                                                      &r]'
+       - 'to_all: centered_message: &1&l¡RAYOS Y &0&fWITHER &4PARA TODOS!'
+       - 'to_all: centered_message: [&f&m                                                      &r]'
+       - "console_command: effect give @a minecraft:weakness 10 4"
+       - "wait_ticks: 40"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 15"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 15"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 15"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 15"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: effect give @a minecraft:wither 10 1"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "wait_ticks: 30"
+       - "console_command: execute at @a run summon minecraft:lightning_bolt"
+       - "console_command: effect give @a minecraft:wither 10 4"
+       

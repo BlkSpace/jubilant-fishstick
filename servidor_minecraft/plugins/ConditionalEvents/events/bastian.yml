@@ -1,0 +1,26 @@
+Events:
+  revive_evento:
+     type: player_command
+     conditions:
+     - '%command% equalsIgnoreCase /mahoraga'
+     - '%player% == zTryh or %player% == Valecita'
+     actions:
+      default:
+       - "cancel_event: true"
+       - 'to_all: playsound: ENTITY_WITHER_SPAWN;10;0.5'
+       - 'to_all: centered_message: Arteffacto Sagrado'
+       - "wait_ticks: 35"
+       - 'to_all: centered_message: Oscila y Vibra'
+       - "wait_ticks: 30"
+       - 'to_all: centered_message: Espada de 8 Empuñaduras'
+       - "wait_ticks: 25"
+       - 'to_all: centered_message: General Divino'
+       - "wait_ticks: 20"                                                 
+       - 'to_all: centered_message: MAHORAGA!'
+       - 'to_all: playsound: ENTITY_WITHER_DEATH;99999;99'
+       - "console_command: effect give Valecita minecraft:blindness 3 10"
+       - "console_command: effect give Valecita minecraft:weakness 120 1"
+       - "console_command: effect give Valecita minecraft:wither 10 2"
+       - "console_command: effect give @a minecraft:slowness 10 2"
+       - "wait_ticks: 50"
+       - "console_command: tp Matig64 Valecita"

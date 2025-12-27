@@ -1,0 +1,384 @@
+[00:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] eu
+[00:04:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hay alguien?
+[00:04:42] [Async Chat Thread - 2/INFO] [/]: <Denkimin> dios?
+[00:04:56] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
+[00:05:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] un rayo para ti hijo mio
+[00:05:10] [Async Chat Thread - 2/INFO] [/]: <Denkimin> ay
+[00:05:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown entity: minecraft:
+[00:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown entity: minecraft:say
+[00:07:33] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
+[00:07:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown entity: minecraft:lightning_bol
+[00:10:53] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[00:10:54] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[00:10:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:34287] logged in with entity id 4,958 at (-333.84, 53.875, -424.047)
+[00:10:55] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[00:10:55] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/PrimaryMatch
+[00:10:57] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[00:10:57] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[00:11:15] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[00:11:15] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/ContentsFilterType
+[00:13:24] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Status
+[00:13:49] [Async Chat Thread - 3/INFO] [/]: <Denkimin> papuuuuuuuuuu
+[00:16:10] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[00:16:10] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[00:16:10] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[00:18:34] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/weather/LightningStrikeEvent$Cause
+[00:18:37] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/TreeType
+[00:19:55] [Async Chat Thread - 4/INFO] [/]: <zTryh> esta lluviendo bien fuerte we
+[00:20:02] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityTransformEvent$TransformReason
+[00:20:02] [Async Chat Thread - 4/INFO] [/]: <Denkimin> yo estoy en nieve
+[00:21:16] [Async Chat Thread - 5/INFO] [/]: <zTryh> xd
+[00:21:17] [Async Chat Thread - 5/INFO] [/]: <zTryh> eu
+[00:21:20] [Async Chat Thread - 5/INFO] [/]: <Denkimin> q
+[00:21:30] [Async Chat Thread - 5/INFO] [/]: <zTryh> vamos a conseguir algun dragon?
+[00:22:03] [Async Chat Thread - 5/INFO] [/]: <Denkimin> yo diria que en otro momento, estoy modo bob constructor
+[00:22:46] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/SortBy
+[00:22:51] [Async Chat Thread - 5/INFO] [/]: <zTryh> mish
+[00:24:25] [Async Chat Thread - 6/INFO] [/]: <zTryh> apoco si
+[00:24:29] [Async Chat Thread - 6/INFO] [/]: <Denkimin> ci
+[00:24:50] [Async Chat Thread - 6/INFO] [/]: <zTryh> pasa cords
+[00:24:55] [Async Chat Thread - 6/INFO] [/]: <zTryh> pa ver tu casovich
+[00:25:21] [Async Chat Thread - 6/INFO] [/]: <Denkimin> esa es la cosa, estoy aplanando xd, cuando tenga algo hecho t las paso
+[00:25:30] [Async Chat Thread - 6/INFO] [/]: <Denkimin> en un rato pq voy a hacer algo chico mientras
+[00:27:32] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/GossipType
+[00:28:28] [Worker-Main-1/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[00:30:32] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Denkimin is 79f332dc-2392-34ff-8321-67be442048de
+[00:30:06] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.16.5-8c7caaf7 (MC: 1.16.5) ---
+[00:30:06] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[00:29:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[00:29:43] [Async Chat Thread - 7/INFO] [/]: <zTryh> estas viviendo en una motaña?
+[00:30:39] [Worker-Main-1/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: The server has not responded for 10 seconds! Creating thread dump
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Server thread dump (Look for plugins here before reporting to Mohist!):
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Current Thread:Server thread
+[00:30:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Denkimin lost connection: Disconnected
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$Interp
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$NoiseType
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	PID: 37 | Suspended:false | Native:false | State:RUNNABLE
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	Stack:
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.chunk.AbstractChunkProvider.func_217205_a(SourceFile:16)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_175674_a(World.java:892)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_85033_bc(LivingEntity.java:2996)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70636_d(LivingEntity.java:2921)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.MobEntity.func_70636_d(MobEntity.java:550)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.monster.MonsterEntity.func_70636_d(MonsterEntity.java:43)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2623)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:346)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.monster.CreeperEntity.func_70071_h_(CreeperEntity.java:153)
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$FractalType
+[00:30:39] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denkimin
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:812)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld$$Lambda$10761/0x0000000841ca3040.accept(Unknown Source)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_217390_a(World.java:708)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:554)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:1099)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:345)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:1029)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:846)
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$CellularDistanceFunction
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer$$Lambda$8927/0x0000000841656440.run(Unknown Source)
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$CellularReturnType
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:30:39] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettercaves/enums/CaveType
+[00:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Denkimin left the game
+[00:30:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[00:30:39] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[00:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[00:30:39] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettercaves/enums/CavernType
+[00:30:39] [Worker-Main-1/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[00:30:39] [Worker-Main-1/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[00:30:39] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@11c7acab[id=a4df43a3-22d5-3c3a-879d-d4ffb9b130f5,name=zTryh,properties={},legacy=false] (/127.0.0.231:60249) lost connection: Disconnected
+[00:30:39] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 58 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, tlskincape, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[00:30:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Denkimin[/127.75.97.24:42445] logged in with entity id 10,802 at (339.541, 102.562, 313.05)
+[00:30:41] [Server thread/INFO] [Waila/]: Syncing config to Denkimin (79f332dc-2392-34ff-8321-67be442048de)
+[00:30:42] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denkimin (20)
+[00:30:42] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denkimin
+[00:31:12] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[00:31:12] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[00:31:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:53495] logged in with entity id 10,964 at (-2,392.24, 66, -3,912.986)
+[00:31:14] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[00:31:14] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[00:31:14] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: java.util.ConcurrentModificationException
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[00:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Hippogryph
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[00:31:24] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[00:31:24] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[00:31:24] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[00:31:24] [Server thread/INFO] [tombstone/]: The player zTryh could not be saved
+[00:31:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2397 66.5 -3918
+[00:31:31] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/10964, l='ServerLevel[world]', x=-2396.50, y=66.50, z=-3917.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -2396.5,66.5,-3917.5) left loaded chunk area
+[00:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2396.5, 66.5, -3917.5]
+[00:31:33] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[00:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was blown up by Death Worm
+[00:32:21] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[00:32:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2477 71.5 -3945
+[00:32:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2476.5, 71.5, -3944.5]
+[00:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Hippogryph
+[00:33:15] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[00:47:35] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatColors
+[00:47:35] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatTypes
+[00:48:22] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[00:53:32] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3897, y=17, z=-4635} but found not block entity block Block{minecraft:granite} at location
+[00:53:42] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.16.5-8c7caaf7 (MC: 1.16.5) ---
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: The server has not responded for 10 seconds! Creating thread dump
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Server thread dump (Look for plugins here before reporting to Mohist!):
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Current Thread:Server thread
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	PID: 37 | Suspended:false | Native:false | State:RUNNABLE
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	Stack:
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_217353_a(World.java:242)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_225522_c_(World.java:878)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.math.shapes.VoxelShapeSpliterator.func_234876_a_(SourceFile:120)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.math.shapes.VoxelShapeSpliterator.func_234878_a_(SourceFile:77)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.math.shapes.VoxelShapeSpliterator.tryAdvance(SourceFile:62)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.stream.Streams$ConcatSpliterator.tryAdvance(Streams.java:723)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.ReuseableStream$1.tryAdvance(SourceFile:31)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.Spliterators$1Adapter.hasNext(Spliterators.java:681)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.math.shapes.VoxelShapes.func_212437_a(VoxelShapes.java:177)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_223310_a(Entity.java:924)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_223307_a(Entity.java:913)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_213306_e(Entity.java:880)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_213315_a(Entity.java:689)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_233633_a_(LivingEntity.java:2518)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_213352_e(LivingEntity.java:2479)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70636_d(LivingEntity.java:2913)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.MobEntity.func_70636_d(MobEntity.java:550)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2623)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:346)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.passive.BatEntity.func_70071_h_(BatEntity.java:97)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:812)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld$$Lambda$10761/0x0000000841ca3040.accept(Unknown Source)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_217390_a(World.java:708)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:554)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:1099)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:345)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:1029)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:846)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer$$Lambda$8927/0x0000000841656440.run(Unknown Source)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:53:43] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[00:54:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Denkimin lost connection: Disconnected
+[00:54:23] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denkimin
+[00:54:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Denkimin left the game
+[00:55:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode spectator
+[00:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Spectator Mode]
+[00:55:55] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-3918, y=16, z=-4628}
+[00:55:55] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-3915, y=18, z=-4626}
+[00:55:55] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-3925, y=16, z=-4637}
+[00:56:07] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/FoxEntity$Type
+[00:57:47] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3761, y=21, z=-4314} but found not block entity block Block{minecraft:cave_air} at location
+[00:57:47] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3768, y=21, z=-4318} but found not block entity block Block{minecraft:stone} at location
+[00:57:47] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3763, y=21, z=-4317} but found not block entity block Block{minecraft:diorite} at location
+[00:57:47] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3768, y=21, z=-4311} but found not block entity block Block{minecraft:cave_air} at location
+[00:57:49] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3778, y=26, z=-4313} but found not block entity block Block{minecraft:cave_air} at location
+[00:58:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Cobweb Entanglement]
+[00:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Quite the Renovation]
+[01:00:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /locate iceandfire:graveyard
+[01:00:43] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/map/MapCursor$Type
+[01:00:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -4400 ~ -5280
+[01:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -4399.5, 8.332988830959044, -5279.5]
+[01:02:47] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3910, y=16, z=-5859} but found not block entity block Block{minecraft:dirt} at location
+[01:02:52] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[01:03:14] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3771, y=30, z=-5528} but found not block entity block Block{minecraft:stone} at location
+[01:03:14] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3771, y=23, z=-5522} but found not block entity block Block{minecraft:cave_air} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4406, y=47, z=-6523} but found not block entity block Block{minecraft:stone} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4408, y=47, z=-6521} but found not block entity block Block{minecraft:stone} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4405, y=53, z=-6518} but found not block entity block Block{minecraft:dirt} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4408, y=48, z=-6517} but found not block entity block Block{minecraft:stone} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4413, y=48, z=-6523} but found not block entity block Block{minecraft:dirt} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4414, y=53, z=-6517} but found not block entity block Block{minecraft:stone} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4408, y=56, z=-6519} but found not block entity block Block{minecraft:dirt} at location
+[01:04:07] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4405, y=52, z=-6520} but found not block entity block Block{minecraft:stone} at location
+[01:05:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /locate iceandfire:gorgon_temple
+[01:05:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -3760 ~ -6640
+[01:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -3759.5, 28.95262458114884, -6639.5]
+[01:05:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -3760 ~ -6640
+[01:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -3759.5, 28.95262458114884, -6639.5]
+[01:05:46] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3747, y=23, z=-6729} but found not block entity block Block{minecraft:cave_air} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3373, y=53, z=-6380} but found not block entity block Block{minecraft:stone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3371, y=53, z=-6378} but found not block entity block Block{minecraft:stone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3371, y=53, z=-6380} but found not block entity block Block{minecraft:stone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3375, y=53, z=-6375} but found not block entity block Block{minecraft:stone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3371, y=53, z=-6374} but found not block entity block Block{minecraft:stone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3372, y=59, z=-6383} but found not block entity block Block{minecraft:sandstone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3369, y=55, z=-6375} but found not block entity block Block{minecraft:stone} at location
+[01:06:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3370, y=53, z=-6376} but found not block entity block Block{minecraft:stone} at location
+[01:07:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason
+[01:07:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:08:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:08:33] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: java.util.ConcurrentModificationException
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[01:09:08] [Tombstone Backup Thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[01:09:08] [Server thread/INFO] [tombstone/]: The player zTryh could not be saved
+[01:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:09:29] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:09:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:09:40] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:10:09] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:10:32] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:10:34] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh was kicked for floating too long!
+[01:10:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Flying is not enabled on this server
+[01:10:34] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[01:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[01:10:40] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[01:10:40] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[01:10:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:59819] logged in with entity id 28,899 at (-3,482.449, 67.922, -6,638.18)
+[01:10:41] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[01:10:49] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[01:10:49] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[01:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:11:21] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:12:03] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:12:19] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/28995, l='ServerLevel[world]', x=-3459.82, y=76.85, z=-6630.63] died, message: 'Villager was slain by Lightning Dragon'
+[01:12:19] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:12:36] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:13:33] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:14:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was energized by Lightning Dragon
+[01:14:03] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:14:12] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/29070, l='ServerLevel[world]', x=-3453.30, y=72.00, z=-6618.34] died, message: 'Butcher was struck with lightning by Lightning Dragon'
+[01:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:14:27] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:15:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -3468 72.5 -6621
+[01:15:07] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/28899, l='ServerLevel[world]', x=-3467.50, y=72.50, z=-6620.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -3467.5,72.5,-6620.5) left loaded chunk area
+[01:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -3467.5, 72.5, -6620.5]
+[01:15:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:15:29] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:15:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -3473 67.5 -6681
+[01:15:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -3472.5, 67.5, -6680.5]
+[01:15:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:15:47] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:15:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -3451 67.5 -6686
+[01:15:55] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/28899, l='ServerLevel[world]', x=-3450.50, y=67.50, z=-6685.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -3450.5,67.5,-6685.5) left loaded chunk area
+[01:15:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -3450.5, 67.5, -6685.5]
+[01:16:02] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/30877, l='ServerLevel[world]', x=-3442.17, y=78.76, z=-6663.23] died, message: 'Leatherworker was slain by Lightning Dragon'
+[01:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:16:24] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:16:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -3437 72.5 -6638
+[01:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -3436.5, 72.5, -6637.5]
+[01:16:34] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cartographer'/30907, l='ServerLevel[world]', x=-3428.29, y=73.30, z=-6636.77] died, message: 'Cartographer tried to swim in lava to escape Lightning Dragon'
+[01:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Dragonslayer]
+[01:18:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode spectator
+[01:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Spectator Mode]
+[01:19:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:21:32] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/IronGolemEntity$Cracks
+[01:24:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[01:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[01:25:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:28:32] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:28:51] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh suffocated in a wall whilst fighting Lightning Dragon
+[01:29:27] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:29:48] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:30:15] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:30:27] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:30:30] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh was kicked for floating too long!
+[01:30:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Flying is not enabled on this server
+[01:30:30] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[01:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[01:30:33] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[01:30:33] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[01:31:25] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[01:31:32] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2b4ed997[id=a4df43a3-22d5-3c3a-879d-d4ffb9b130f5,name=zTryh,properties={},legacy=false] (/127.0.0.231:58693) lost connection: Disconnected
+[01:31:33] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[01:31:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:42921] logged in with entity id 33,688 at (-3,479.1, 32.707, -6,722.148)
+[01:31:34] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[01:31:35] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[01:31:35] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[01:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Lightning Dragon
+[01:32:09] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:32:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[01:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[01:34:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:34:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:34:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was struck with lightning by Lightning Dragon
+[01:34:30] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[01:34:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[01:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[01:35:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:35:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Mother of Dragons]
+[01:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Where Is The Stone Pen?]
+[01:37:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[01:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[01:37:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:37:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:38:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode spectator
+[01:38:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Spectator Mode]
+[01:38:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode spectator
+[01:38:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[01:38:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[01:38:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2349 73.5 -3536
+[01:38:52] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/33688, l='ServerLevel[world]', x=-2348.50, y=73.50, z=-3535.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -2348.5,73.5,-3535.5) left loaded chunk area
+[01:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2348.5, 73.5, -3535.5]
+[01:39:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[01:39:03] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[01:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[01:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01:39:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01:39:36] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Disabling ConditionalEvents v4.73.1
+[01:39:36] [Server thread/INFO] [/]: [ConditionalEvents] Has been disabled! Version: 4.73.1
+[01:39:36] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
+[01:39:36] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v7.2.2+fc3c499
+[01:39:36] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:39:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01:39:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01:39:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:39:37] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:39:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[01:39:37] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:39:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[01:39:37] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:39:37] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:39:37] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:39:37] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
