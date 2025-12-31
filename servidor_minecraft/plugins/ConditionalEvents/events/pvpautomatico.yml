@@ -1,0 +1,42 @@
+# 
+# <-------------- by itssos --------------->
+
+Events:
+  pvpon:
+    type: player_command
+    conditions:
+    - '%command% == /pvpon'
+    - '%player% == zTryh or %player% == Mati64'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: conditionalevents disable pvp_no_activado'
+      - 'to_all: playsound: ENTITY_WITHER_SPAWN;10;0.5'
+      - 'to_all: centered_message:  '
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message: &c&l¡EL PVP AH COMENZADO!'
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message:  '
+  pvpoff:
+    type: player_command
+    conditions:
+    - '%command% == /pvpoff'
+    - '%player% == zTryh or %player% == Mati64'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: conditionalevents enable pvp_no_activado'
+      - 'to_all: playsound: ENTITY_WITHER_SPAWN;10;0.5'
+      - 'to_all: centered_message:  '
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message: &c&l¡EL PVP TERMINO!'
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message:  '
+  pvp_no_activado:
+    type: player_attack
+    conditions:
+    - '%victim% == PLAYER'
+    actions:
+      default:
+      - 'cancel_event: true'
+    enabled: true

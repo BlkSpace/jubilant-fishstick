@@ -1,0 +1,60 @@
+Events:
+  boton_kill:
+    type: block_interact
+    conditions:
+    - '%block% == STONE_BUTTON or %block% == OAK_BUTTON or %block% == SPRUCE_BUTTON
+      or %block% == BIRCH_BUTTON or %block% == JUNGLE_BUTTON or %block% == ACACIA_BUTTON
+      or %block% == DARK_OAK_BUTTON or %block% == CRIMSON_BUTTON or %block% == WARPED_BUTTON
+      or %block% == POLISHED_BLACKSTONE_BUTTON'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'damage: 9999999999'
+    enabled: false
+  buton_activate:
+    type: player_command
+    conditions:
+    - '%command% == /mataboton'
+    - '%player% == zTryh or %player% == Mati64'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: conditionalevents enable boton_kill'
+      - 'to_all: centered_message:  '
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message: &c&l¡CUIDADO CON LOS BOTONES!'
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message:  '
+  creeper:
+    type: entity_spawn
+    conditions:
+    - '%entity% == CREEPER'
+    - '%reason% == NATURAL'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: summon creeper %entity_x% %entity_y% %entity_z% {powered:1}'
+    enabled: false
+  creeper_activate:
+    type: player_command
+    conditions:
+    - '%command% == /creeperelectro'
+    - '%player% == zTryh or %player% == Mati64'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: conditionalevents enable boton_kill'
+      - 'to_all: centered_message:  '
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message: &c&l¡CREEPERS ELECTRICOS!'
+      - 'to_all: centered_message: [&f&m                                                      &r]'
+      - 'to_all: centered_message:  '
+  agua:
+    type: repetitive
+    repétitive_time: 10
+    enabled: true
+    conditions:
+    - '%playerblock_inside% == WEATHER'
+    actions:
+      default:
+      - 'damage: 9'

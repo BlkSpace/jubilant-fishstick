@@ -1,0 +1,1167 @@
+[21:16:26] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[21:16:26] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.29 by Ubuntu
+[21:16:26] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[21:16:26] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[21:16:26] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/jubilant-fishstick/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[21:16:28] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[21:16:28] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[21:16:28] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[21:16:28] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:16:29] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/GameType
+[21:16:29] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/Difficulty
+[21:16:30] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/GameRules$Category
+[21:16:30] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/util/Unit
+[21:16:30] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[21:16:30] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Util$IdentityStrategy
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$AxisDirection
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Axis
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/material/PushReaction
+[21:16:31] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Plane
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawOrientation
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/AttachFace
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BellAttachment
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/WallHeight
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RedstoneSide
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoubleBlockHalf
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/Half
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RailShape
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BedPart
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ChestType
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ComparatorMode
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoorHingeSide
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/NoteBlockInstrument
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/PistonType
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/SlabType
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StairsShape
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StructureMode
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BambooLeaves
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/DyeColor
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/potion/EffectType
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/TextFormatting
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/attributes/AttributeModifier$Operation
+[21:16:31] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/PressurePlateBlock$Sensitivity
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/SkullBlock$Types
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Type
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Usage
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntityClassification
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CataFuseSame
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CataFuseDifferent
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$LensAppId
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$LensComp
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$AppNest
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$LensCompFunc
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CompAssocLeft
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$SortInj
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$SortProj
+[21:16:32] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CompAssocRight
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/Goal$Flag
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Carving
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Decoration
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/MineshaftStructure$Type
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalStructure$Location
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/OceanRuinStructure$Type
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawPattern$PlacementBehaviour
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/JigsawTileEntity$OrientationType
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$TemperatureModifier
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$RainType
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$Category
+[21:16:33] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/BiomeAmbience$GrassColorModifier
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType$Group
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/Enchantment$Rarity
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/ProtectionEnchantment$Type
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/EnchantmentType
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/Rarity
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ArmorMaterial
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemTier
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/minecart/AbstractMinecartEntity$Type
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Type
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BannerPattern
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ScoreCriteria$RenderType
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/ChunkStatus$Type
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/brigadier/arguments/StringArgumentType$StringType
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSidedProvider
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkDirection
+[21:16:34] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSide
+[21:16:35] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/config/ModConfig$Type
+[21:16:35] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage
+[21:16:35] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage$ThreadSelector
+[21:16:35] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:16:35] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:16:35] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:16:35] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:16:35] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/FramedToolType
+[21:16:35] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/BlockType
+[21:16:35] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/creativetab/CreativeTabHandler
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/CoreSide
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/common/Mod$EventBusSubscriber$Bus
+[21:16:35] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/Commands$EnvironmentType
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[21:16:35] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/network/PacketIdServer
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/rechiseled/api/blocks/BlockSpecification
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/rechiseled/api/blocks/BlockModelType
+[21:16:35] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/registry/RegistryEntryAcceptor$Registry
+[21:16:35] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/Pose
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[21:16:35] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Phase
+[21:16:35] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Type
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[21:16:35] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Hand
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[21:16:35] [modloading-worker-2/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[21:16:35] [modloading-worker-3/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/config/InfernalExpansionConfig$ClientConfig
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/config/InfernalExpansionConfig$MobInteractions
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/config/InfernalExpansionConfig$MobSpawning
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/config/InfernalExpansionConfig$WorldGeneration
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/config/InfernalExpansionConfig$Miscellaneous
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/config/WorldGenStyle
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/worldgen/namegen/NameGenerationMode
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/config/DimensionalWarp
+[21:16:35] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/cooldown/CooldownType
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/client/gui/SortButtonsPosition
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/CollapseFace
+[21:16:35] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/Rotation
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/feeding/HungerLevel
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/inception/InventoryOrder
+[21:16:35] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemScrollBuff$SpellBuff
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/toolswapper/ToolSwapMode
+[21:16:35] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/xppump/AutomationDirection
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/DamageCategory
+[21:16:36] [modloading-worker-2/INFO] [coroutil/]: forge loader environment detected
+[21:16:36] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/SpawnReason
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemAdvancement$IconType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/TimeHelper$SpecialEvent
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/registry/ModTriggers$WololoColor
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$FogDensity
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/block/GraveModel
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/block/BlockGraveMarble$MarbleType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$GraveSkinRule
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$AutoEquipRule
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$MarkerType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Enchantments$MagicSiphonOnPlayerRule
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/SoundCategory
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/world/NoteBlockEvent$Octave
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/world/NoteBlockEvent$Note
+[21:16:36] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[21:16:36] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/block/SoulType
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/loot/ParagliderModifier$ConfigOption
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/capabilities/PlayerState
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/UpdaterHandler$PoolType
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/recipe/ConfigConditionSerializer
+[21:16:36] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/progwml6/ironchest/common/item/IronChestsUpgradeType
+[21:16:36] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/progwml6/ironchest/common/block/IronChestsTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/configs/ClientConfigs$GraphicsFanciness
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/util/CapturedMobsHelper$AnimationCategory
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/entities/BombEntity$breakingMode
+[21:16:36] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumDragonEgg
+[21:16:36] [Thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/serialization/DataResult$Instance
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/VanillaWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/AtmosphericWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/AutumnityWoodTypes
+[21:16:36] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumDragonArmor
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/EndergeticWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/UpgradeAquaticWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/EnhancedMushroomsWoodTypes
+[21:16:36] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumSeaSerpent
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/OuterEndWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/BygWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/PokecubeLegendsWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/PokecubeWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/ForbiddenArcanusWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/ExtendedMushroomsWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/DruidcraftWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/BetterEndWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/GreekFantasyWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/GoodNightSleepWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/OmniWoodTypes
+[21:16:36] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumSkullType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/MysticalWorldWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/SimplyTeadWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/StructurizeWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/RediscoveredWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/ArchitectsPaletteWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/BotaniaWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/PremiumWoodWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/SilentGearWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/TerraqueousWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/TheBumblezoneWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/TraverseWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/ToufucraftWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/BayouBluesWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/AbundanceWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/EnvironmentalWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/TerraincognitaWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/BiomesoplentyWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/MowzieMobsWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/TwilightForestWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/UndergardenWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/LotrWoodTypes
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/UnnamedAnimalModWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/AtumWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/MalumWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/HabitatWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/DesolationWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/ArsNouveauWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/BambooBlocksWoodType
+[21:16:36] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/datagen/types/EidolonWoodType
+[21:16:36] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumParticles
+[21:16:36] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/capabilities/CapabilityManager
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/blocks/VerticalSlabBlock$VerticalSlabType
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blocks/KeypadBarrelBlock$LidFacing
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/SlopeType
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/CornerType
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/StairsType
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/ChestState
+[21:16:37] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/LatchType
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/BlockProperties$Topping
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/BlockProperties$Winding
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/BlockProperties$RakeDirection
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/BlockProperties$PostType
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/BlockProperties$BellAttachment
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/util/IBellConnection$BellConnection
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/BlockProperties$Rune
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Rotation
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/math/vector/Orientation
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/TriplePermutation
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/blocks/VerticalSlabBlock$VerticalSlabType
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/barakoa/MaskType
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/infernalstudios/infernalexp/init/IEItemTiers
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oblivioussp/spartanshields/init/ModItems$TowerShieldRenderType
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oblivioussp/spartanshields/util/PowerUnit
+[21:16:38] [main/INFO] [Spartan Shields/]: Registering Items
+[21:16:38] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/ModuleType
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/PageGroup
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/util/RegisterItemBlock$SCItemGroup
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/filter/Direction
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumTroll$Weapon
+[21:16:38] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumTroll
+[21:16:38] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[21:16:39] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[21:16:39] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[21:16:39] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/SCSounds
+[21:16:39] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[21:16:39] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[21:16:39] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[21:16:39] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/config/biome/BiomeEntryType
+[21:16:39] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/voicechat/logging/LogLevel
+[21:16:39] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[21:16:39] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/voicechat/config/ServerConfig$Codec
+[21:16:39] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/util/GiveMode
+[21:16:39] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntitySpawnPlacementRegistry$PlacementType
+[21:16:39] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[21:16:39] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[21:16:39] [modloading-worker-3/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[21:16:39] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/opus4j/OpusEncoder$Application
+[21:16:39] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/voicechat/api/opus/OpusEncoderMode
+[21:16:39] [modloading-worker-3/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
+[21:16:39] [modloading-worker-2/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[21:16:39] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/client/OpenScreen$DataType
+[21:16:39] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/server/RemoteControlMine$Action
+[21:16:39] [modloading-worker-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/CastingType
+[21:16:39] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/util/StandingOrWallType
+[21:16:39] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blockentities/BlockChangeDetectorBlockEntity$DetectionMode
+[21:16:40] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/server/SyncProjector$DataType
+[21:16:40] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/container/ClickType
+[21:16:40] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blockentities/RiftStabilizerBlockEntity$TeleportationType
+[21:16:40] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[21:16:40] [modloading-worker-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/server/SyncSSSSettingsOnServer$DataType
+[21:16:40] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[21:16:40] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[21:16:40] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[21:16:40] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/voicechat/permission/PermissionType
+[21:16:40] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/server/permission/DefaultPermissionLevel
+[21:16:40] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/server/permission/DefaultPermissionHandler
+[21:16:40] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/block/tiles/BookPileBlockTile$BookColor
+[21:16:40] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/selene/fluids/SoftFluid$TintMethod
+[21:16:40] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/setup/LootTableStuff$TableType
+[21:16:40] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/compatibility/SupportMods
+[21:16:40] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcp/mobius/waila/api/TooltipPosition
+[21:16:40] [modloading-worker-0/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[21:16:40] [modloading-worker-0/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[21:16:40] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[21:16:40] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[21:16:40] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[21:16:40] [modloading-worker-0/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[21:16:40] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/BlockVoxelShape
+[21:16:40] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/EmptyBlockReader
+[21:16:40] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/AxisRotation
+[21:16:41] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/pathfinding/PathType
+[21:16:41] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/AbstractBlock$OffsetType
+[21:16:42] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Mirror
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/ColumnFuzzedBiomeMagnifier
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/FuzzedBiomeMagnifier
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/ZoomLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/BiomeManager$BiomeType
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/LayerUtil$Type
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/IslandLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddIslandLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/RemoveTooMuchOceanLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/OceanLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddSnowLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeLayer$CoolWarm
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeLayer$HeatIce
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeLayer$Special
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddMushroomIslandLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/DeepOceanLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/StartRiverLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddBambooForestLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeBiomeLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/HillsLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/RiverLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/SmoothLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/RareBiomeLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/ShoreLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/MixRiverLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/MixOceansLayer
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/authlib/yggdrasil/YggdrasilEnvironment
+[21:16:43] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/datafix/DefaultTypeReferences
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/resources/ResourcePackType
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/resources/ResourcePackInfo$Priority
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Util$OS
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/resources/PackCompatibility
+[21:16:43] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/LootContext$EntityTarget
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/event/ClickEvent$Action
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/commands/ConvertCommand$ConversionMode
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBKnowledge$SubCommand
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBSiege$SubCommand
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBRecovery$SubCommand
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBBind$SubCommand
+[21:16:44] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBTeleport$SubCommand
+[21:16:44] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, smoothchunk1.16.5-2.0.jar, voicechat-forge-1.16.5-2.6.10.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, supermartijn642configlib-1.1.8-forge-mc1.16.jar, rechiseled-1.1.6-forge-mc1.16.jar, Jade-1.16.4-2.8.3.jar, infernal-expansion-1.16.5-2.5.0.jar, jei-1.16.5-7.8.0.1009.jar, supermartijn642corelib-1.1.18-forge-mc1.16.jar, goblintraders-1.7.3-1.16.5.jar, connectivity-2.4-1.16.5.jar, spark-1.9.1-forge.jar, betterfpsdist-1.2.jar, einsteins_library-2.0-1.16.5.jar, SpartanShields-1.16.5-2.1.2.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, Waystones_1.16.5-7.6.4.jar, Clumps-6.0.0.28.jar, fastasyncworldsave-1.16.5-1.4.jar, citadel-1.8.1-1.16.5.jar, [1.16.5] SecurityCraft v1.10.1.jar, FramedBlocks-2.16.3.jar, YungsApi-1.16.4-Forge-13.jar, elevatorid-1.16.5-1.7.13.jar, tombstone-1.16.5-6.9.7.jar, BetterStrongholds-1.16.4-1.2.1.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, coroutil-forge-1.16.5-1.3.6.jar, lazydfu-0.1.3.jar, starlight-1.2.jar, ferritecore-2.1.1-forge.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, fusion-1.2.11c-forge-mc1.16.jar, watut-forge-1.16.5-1.0.14.jar, BetterEnder1.0-1.16.5 (2).jar, usefulslime-1.2-1.16.5.jar, Paraglider-1.16.5-1.3.2.14.jar, mohist-1.16.5-8c7caaf7-universal.jar, supplementaries-1.16.5-0.18.5.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, selene-1.16.5-1.9.0.jar, ironchest-1.16.5-11.2.21.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, bukkit
+[21:16:44] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/arguments/EntityAnchorArgument$Type
+[21:16:45] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/goblintraders/trades/TradeRarity
+[21:16:45] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[21:16:45] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/FireworkRocketItem$Shape
+[21:16:45] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/functions/CopyName$Source
+[21:16:45] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/functions/CopyNbt$Source
+[21:16:45] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/functions/CopyNbt$Action
+[21:16:45] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/storage/MapDecoration$Type
+[21:16:45] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemStack$TooltipDisplayFlags
+[21:16:46] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/advancements/FrameType
+[21:16:46] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2,014 recipes
+[21:16:46] [Worker-Main-2/INFO] [rechiseled/]: Loaded 39 chiseling recipes
+[21:16:48] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/CommonUtil$Festivity
+[21:16:48] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/ShulkerBoxTileEntity$AnimationStatus
+[21:16:48] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/betterdungeons/world/DungeonType
+[21:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[21:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21:16:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[21:16:50] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[21:16:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:16:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21:16:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:16:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/plugin/PluginLoadOrder
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/permissions/PermissionDefault
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Warning$WarningState
+[21:16:50] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/World$Environment
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Material
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/TreeSpecies
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/BlockFace
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/SandstoneType
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/GrassSpecies
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/DyeColor
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/CropState
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/material/types/MushroomBlockTexture
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/NetherWartsState
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/material/CocoaPlant$CocoaPlantSize
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/CoalType
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/entity/EntityType
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Art
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/attribute/Attribute
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/Biome
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/loot/LootTables
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/inventory/EquipmentSlot
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Statistic
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Statistic$Type
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Sound
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/entity/Villager$Profession
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/entity/Villager$Type
+[21:16:50] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Fluid
+[21:16:51] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/potion/PotionType
+[21:16:51] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/banner/PatternType
+[21:16:51] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Particle
+[21:16:51] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/craftbukkit/v1_16_R3/CraftParticle
+[21:16:51] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/ChatColor
+[21:16:51] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[21:16:51] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[21:16:51] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[21:16:51] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[21:16:51] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/plugin/PluginAwareness$Flags
+[21:16:52] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/ProtocolLib.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/comphenix/protocol/ProtocolLib has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:148) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:395) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:303) ~[forge:?]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[forge:7e29f765-296df566-9fb885e8]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:218) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: com/comphenix/protocol/ProtocolLib has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.remappedFindClass(PluginClassLoader.java:279) ~[forge:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:202) ~[forge:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:138) ~[forge:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:133) ~[forge:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:83) ~[forge:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:144) ~[forge:?]
+	... 7 more
+[21:16:52] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v7.2.2+fc3c499
+[21:16:54] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@272d7ab4]
+[21:16:54] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.7
+[21:16:54] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Loading ConditionalEvents v4.73.1
+[21:16:54] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v7.2.2+fc3c499
+[21:16:54] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/EventPriority
+[21:16:54] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[21:16:54] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/GameMode
+[21:16:54] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/Action
+[21:16:54] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/Event$Result
+[21:16:55] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryType
+[21:16:55] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/Chunk$CreateEntityType
+[21:16:55] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/ActionResultType
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/LightType
+[21:16:56] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/TypeRewriteRule$Nop
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/kinds/IdF$Instance
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Bamboo$Leaves
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Bed$Part
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Bell$Attachment
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Axis
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Chest$Type
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Wall$Height
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/Bisected$Half
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Door$Hinge
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/FaceAttachable$AttachedFace
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Jigsaw$Orientation
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Switch$Face
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/Rail$Shape
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Instrument
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/TechnicalPiston$Type
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Comparator$Mode
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/RedstoneWire$Connection
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Stairs$Shape
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/Slab$Type
+[21:16:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/block/data/type/StructureBlock$Mode
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/plugin/ServicePriority
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] ====================================================
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  WorldEdit works better if you use Paper 
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  as your server software. 
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper offers significant performance improvements,
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  bug fixes, security enhancements and optional
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  features for server owners to enhance their server.
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  better at diagnosing lag problems over v1.
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  All of your plugins should still work, and the
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[21:16:57] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] ====================================================
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/util/TeamUtils$TeamType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/okhttp3/Protocol
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/okhttp3/TlsVersion
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/format/TextDecoration$State
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/format/TextDecoration
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/ComponentIteratorFlag
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/MonitoringExecutor
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/cpu/CpuMonitor
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/net/NetworkMonitor
+[21:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/VillageSiege$State
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/TickPriority
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/CreatureSpawnEvent$SpawnReason
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/storage/IOWorker$Priority
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/papermc/paper/event/world/border/WorldBorderBoundsChangeEvent$Type
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/world/data/GlobeDataGenerator$Face
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/world/data/GlobeDataGenerator$TerrainType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/world/data/GlobeDataGenerator$Biome
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/world/data/GlobeDataGenerator$Feature
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/spawner/CustomVillageSiege$SiegeState
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/TamableType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/spigotmc/ActivationRange$ActivationType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/datatracker/EntityPropertiesHandler
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityRegainHealthEvent$RegainReason
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerTeleportEvent$TeleportCause
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/projectile/AbstractArrowEntity$PickupStatus
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/pathfinding/PathNodeType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/controller/MovementController$Action
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/Explosion$Mode
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/entity/EnderDragon$Phase
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/monster/SpellcastingIllagerEntity$SpellType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/memory/MemoryModuleStatus
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/Task$Status
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/MultiTask$Ordering
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/MultiTask$RunType
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/MooshroomEntity$Type
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/monster/PhantomEntity$AttackPhase
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/ShootTargetTask$Status
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[21:16:57] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/fish/TropicalFishEntity$Type
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossInfo$Color
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossInfo$Overlay
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SUpdateBossInfoPacket$Operation
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/EntityBoulder$BoulderSizeEnum
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/EntityFallingBlock$EnumFallingBlockMode
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/entity/sentry/Sentry$SentryMode
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/TargetingMode
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Air
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Ground
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/lighting/IWorldLightListener$Dummy
+[21:16:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/server/ChunkHolder$LocationType
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction8
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ca/spottedleaf/starlight/common/light/StarLightEngine$AxisDirection
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/PointOfInterestManager$Status
+[21:16:58] [spark-monitor/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/LinuxProc
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[21:16:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/FunctionType$Instance
+[21:16:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21:16:59] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalPiece$Location
+[21:16:59] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/datatracker/EntityDataHandler
+[21:16:59] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[21:16:59] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[21:17:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[21:17:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2,069 ms
+[21:17:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[21:17:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21:17:01] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 78%
+[21:17:01] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[21:17:02] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[21:17:03] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
+[21:17:04] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[21:17:04] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[21:17:05] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4,900 ms
+[21:17:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[21:17:05] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21:17:05] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[21:17:06] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 938 ms
+[21:17:06] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/server/ServerLoadEvent$LoadType
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/Effect
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/SoundCategory
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/WeatherType
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/inventory/InventoryView$Property
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/ChatVisibility
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/ChatType
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/STitlePacket$Type
+[21:17:06] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Fetching available expansion information...
+[21:17:06] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Enabling ConditionalEvents v4.73.1
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerPreLoginEvent$Result
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/AsyncPlayerPreLoginEvent$Result
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/ClickType
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryAction
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryType$SlotType
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerFishEvent$State
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageCause
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageModifier
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
+[21:17:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[21:17:06] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.73.1]
+[21:17:06] [Server thread/INFO] [/]: [ConditionalEvents] Has been enabled! Version: 4.73.1
+[21:17:06] [Server thread/INFO] [/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[21:17:07] [Server thread/INFO] [/]: There is a new version available. (4.73.2)
+[21:17:07] [Server thread/INFO] [/]: You can download it at: https://modrinth.com/plugin/conditionalevents
+[21:17:07] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[21:17:07] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.785s)! For help, type "help"
+[21:17:07] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/PacketDirection
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ProtocolType
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CPlayerDiggingPacket$Action
+[21:17:07] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[21:17:07] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21:17:07] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:17:07] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'problem-springs.gl.at.ply.gg'
+[21:17:07] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 17021
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/DefaultBiomeMagnifier
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SCombatPacket$Event
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SPlayerListItemPacket$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SRecipeBookPacket$State
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SWorldBorderPacket$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ServerScoreboard$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CClientStatusPacket$State
+[21:17:07] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[21:17:07] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Successfully registered external expansion: Animations [1.0.5]
+[21:17:07] [Server thread/INFO] [/]: 2 placeholder hook(s) registered! 1 placeholder hook(s) have an update available.
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/HandSide
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CUseEntityPacket$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CEntityActionPacket$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/crafting/RecipeBookCategory
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CResourcePackStatusPacket$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CSeenAdvancementsPacket$Action
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/CommandBlockTileEntity$Mode
+[21:17:07] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/StructureBlockTileEntity$UpdateCommand
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/MoverType
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/Team$CollisionRule
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityPotionEffectEvent$Cause
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/math/RayTraceContext$FluidMode
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/math/RayTraceContext$BlockMode
+[21:17:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/math/RayTraceResult$Type
+[21:17:09] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/ConnectionType
+[21:17:09] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/login/ServerLoginNetHandler$State
+[21:17:09] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Valecita is 72d41891-ad93-3e05-9294-82cec9447442
+[21:17:09] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/ICustomPacket$Fields
+[21:17:09] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 58 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, tlskincape, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[21:17:10] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityExhaustionEvent$ExhaustionReason
+[21:17:10] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerLoginEvent$Result
+[21:17:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Valecita[/127.70.108.189:39471] logged in with entity id 391 at (-2,358.591, 50, -3,542.763)
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/VanillaPacketSplitter$RemoteCompatibility
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SPlayerPositionLookPacket$Flags
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[21:17:11] [Server thread/INFO] [Waila/]: Syncing config to Valecita (72d41891-ad93-3e05-9294-82cec9447442)
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/renderers/entities/PicklePlayer$PickleData$PickleValues$State
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/PrimaryMatch
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/backpack/wrapper/TankPosition
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/craftbukkit/v1_16_R3/CraftStatistic
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerGuiState
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/BlockRenderType
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BeehiveTileEntity$State
+[21:17:11] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Valecita (20)
+[21:17:11] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Valecita
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Status
+[21:17:11] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkEvent$RegistrationChangeType
+[21:17:12] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityPotionEffectEvent$Action
+[21:17:21] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[21:17:21] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[21:17:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:33815] logged in with entity id 722 at (-2,317.557, 70.753, -3,430.81)
+[21:17:22] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[21:17:24] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[21:17:24] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[21:17:28] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerAnimationType
+[21:17:28] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[21:17:28] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[21:17:28] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[21:17:29] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/entity/Pose
+[21:17:41] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[21:17:41] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/ContentsFilterType
+[21:17:46] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityTargetEvent$TargetReason
+[21:17:46] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[21:18:31] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/EffectHelper$RomanNumeral
+[21:18:43] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/TileEntityMerger$Type
+[21:19:09] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matig64 is e0de66f3-6412-3bf5-a8a3-ce629ecb293a
+[21:19:09] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 61 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, litematica, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, skinlayers3d, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, offlineskins, tombstone, malilib, betterstrongholds, worldedit, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[21:19:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matig64[/127.10.201.242:46501] logged in with entity id 973 at (-2,352.37, 1, -3,525.758)
+[21:19:10] [Server thread/INFO] [Waila/]: Syncing config to Matig64 (e0de66f3-6412-3bf5-a8a3-ce629ecb293a)
+[21:19:11] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Matig64 (20)
+[21:19:11] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Matig64
+[21:19:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/SortBy
+[21:20:27] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/BanList$Type
+[21:20:27] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/boss/BarColor
+[21:20:27] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/boss/BarStyle
+[21:20:27] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/boss/BarFlag
+[21:23:41] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/BlockIgniteEvent$IgniteCause
+[21:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 burned to death
+[21:25:32] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[21:25:32] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[21:25:32] [Server thread/INFO] [tombstone/]: The player Matig64 has successfully been saved
+[21:25:41] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[21:27:18] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/weather/LightningStrikeEvent$Cause
+[21:29:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s 663 63.5 -1422
+[21:29:45] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=663.50, y=63.50, z=-1421.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 663.5,63.5,-1421.5) left loaded chunk area
+[21:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to 663.5, 63.5, -1421.5]
+[21:30:05] [Worker-Main-2/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[21:30:05] [Worker-Main-2/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$Interp
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$NoiseType
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$FractalType
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$CellularDistanceFunction
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/yungsapi/noise/FastNoise$CellularReturnType
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettercaves/enums/CaveType
+[21:30:05] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettercaves/enums/CavernType
+[21:30:05] [Worker-Main-2/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[21:30:05] [Worker-Main-2/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[21:40:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2359 50.5 -3527
+[21:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2358.5, 50.5, -3526.5]
+[21:42:23] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[21:43:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s 112 79.5 -1362
+[21:43:07] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=112.50, y=79.50, z=-1361.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 112.5,79.5,-1361.5) left loaded chunk area
+[21:43:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to 112.5, 79.5, -1361.5]
+[21:44:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita has made the advancement [We Need to Go Deeper]
+[21:45:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matig64 lost connection: Disconnected
+[21:45:57] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Matig64
+[21:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 left the game
+[21:47:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2359 50.5 -3527
+[21:47:17] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=-2358.50, y=50.50, z=-3526.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -2358.5,50.5,-3526.5) left loaded chunk area
+[21:47:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2358.5, 50.5, -3526.5]
+[21:47:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s 112 79.5 -1362
+[21:47:47] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=112.50, y=79.50, z=-1361.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 112.5,79.5,-1361.5) left loaded chunk area
+[21:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to 112.5, 79.5, -1361.5]
+[21:48:43] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[21:48:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita has made the advancement [Hot Stuff]
+[21:50:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /locate iceandfire:graveyard
+[21:50:37] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/map/MapCursor$Type
+[21:50:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp zTryh -752 ~ -2128
+[21:50:47] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=-751.50, y=64.00, z=-2127.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -751.5,64.0,-2127.5) left loaded chunk area
+[21:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -751.5, 64.0, -2127.5]
+[21:50:50] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/FoxEntity$Type
+[21:51:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Cyclops
+[21:51:50] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[21:51:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -573 65.5 -2159
+[21:51:57] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=-572.50, y=65.50, z=-2158.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -572.5,65.5,-2158.5) left loaded chunk area
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -572.5, 65.5, -2158.5]
+[21:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Cyclops
+[21:52:02] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[21:52:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -575 65.5 -2158
+[21:52:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -574.5, 65.5, -2157.5]
+[21:52:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Cyclops
+[21:52:22] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[21:52:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[21:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[21:52:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -575 65.5 -2160
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.16.5-8c7caaf7 (MC: 1.16.5) ---
+[21:52:40] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/722, l='ServerLevel[world]', x=-574.50, y=65.50, z=-2159.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -574.5,65.5,-2159.5) left loaded chunk area
+[21:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -574.5, 65.5, -2159.5]
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: The server has not responded for 10 seconds! Creating thread dump
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Server thread dump (Look for plugins here before reporting to Mohist!):
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Current Thread:Server thread
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	PID: 37 | Suspended:false | Native:false | State:WAITING
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	Stack:
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1796)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3128)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.concurrent.CompletableFuture.waitingGet(CompletableFuture.java:1830)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2049)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.chunk.storage.IOWorker.func_227090_a_(IOWorker.java:65)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.chunk.storage.ChunkLoader.func_227078_e_(SourceFile:61)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ChunkManager.func_219178_f(ChunkManager.java:840)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ChunkManager.func_223170_j(ChunkManager.java:503)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ChunkManager$$Lambda$10191/0x0000000841b4c040.get(Unknown Source)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:572)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:580)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:156)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_217353_a(World.java:242)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.IWorldReader.func_217348_a(IWorldReader.java:112)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_212866_a_(World.java:238)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_175726_f(World.java:229)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_204610_c(World.java:533)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_210500_b(Entity.java:3134)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_233567_aH_(Entity.java:1161)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_233566_aG_(Entity.java:1152)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_70030_z(Entity.java:525)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70030_z(LivingEntity.java:354)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.Entity.func_70071_h_(Entity.java:495)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2578)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:254)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:527)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:293)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:243)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:142)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:1120)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:345)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:1029)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:846)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer$$Lambda$8927/0x0000000841658c40.run(Unknown Source)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[21:52:40] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[21:52:40] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita moved too quickly! 18.424,-7.823,-34.176
+[21:54:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita was slain by Spider
+[21:54:01] [Server thread/INFO] [tombstone/]: The player Valecita has successfully been saved
+[21:54:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[21:54:31] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[21:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[21:56:22] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
+[21:56:26] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/IronGolemEntity$Cracks
+[21:57:07] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[21:57:07] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[21:57:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:49203] logged in with entity id 17,209 at (-576.062, 65, -2,158.457)
+[21:57:09] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[21:57:11] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[21:57:11] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[21:58:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[21:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[22:03:29] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityTransformEvent$TransformReason
+[22:05:59] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matig64 is e0de66f3-6412-3bf5-a8a3-ce629ecb293a
+[22:05:59] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 61 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, litematica, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, skinlayers3d, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, offlineskins, tombstone, malilib, betterstrongholds, worldedit, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:06:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matig64[/127.10.201.242:59465] logged in with entity id 22,675 at (-28.3, 83, -410.7)
+[22:06:01] [Server thread/INFO] [Waila/]: Syncing config to Matig64 (e0de66f3-6412-3bf5-a8a3-ce629ecb293a)
+[22:06:01] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Matig64 (20)
+[22:06:01] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Matig64
+[22:06:40] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/GossipType
+[22:09:07] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[22:16:38] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseItem$InteractionFeedback
+[22:17:36] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[22:19:53] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita moved too quickly! -3.383,0,-11.579
+[22:20:16] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason
+[22:21:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matig64 lost connection: Disconnected
+[22:21:02] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Matig64
+[22:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 left the game
+[22:21:38] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/block/BaseBlock$InteractionFeedback
+[22:22:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[22:22:10] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[22:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[22:24:10] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[22:24:10] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:24:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:34855] logged in with entity id 29,685 at (-1,750.03, 64, -2,522.727)
+[22:24:12] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[22:24:14] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[22:24:14] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[22:27:17] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matig64 is e0de66f3-6412-3bf5-a8a3-ce629ecb293a
+[22:27:55] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.16.5-8c7caaf7 (MC: 1.16.5) ---
+[22:27:45] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@14ab31e5[id=e0de66f3-6412-3bf5-a8a3-ce629ecb293a,name=Matig64,properties={},legacy=false] (/127.10.201.242:41283) lost connection: Disconnected
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: The server has not responded for 10 seconds! Creating thread dump
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Server thread dump (Look for plugins here before reporting to Mohist!):
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Current Thread:Server thread
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	PID: 37 | Suspended:false | Native:false | State:RUNNABLE
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	Stack:
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ChunkManager$EntityTracker.func_219400_b(ChunkManager.java:1203)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:906)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:503)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:1188)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.play.client.CPlayerPacket.func_148833_a(CPlayerPacket.java:29)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.play.client.CPlayerPacket$RotationPacket.func_148833_a(CPlayerPacket.java:130)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.PacketThreadUtil.func_225383_a(PacketThreadUtil.java:22)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.network.PacketThreadUtil$$Lambda$11234/0x0000000841da2c40.run(Unknown Source)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:967)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:174)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:950)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:944)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(ThreadTaskExecutor.java:114)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:929)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:850)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer$$Lambda$8927/0x0000000841658c40.run(Unknown Source)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[22:28:24] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[22:28:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita lost connection: Disconnected
+[22:28:24] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Valecita
+[22:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita left the game
+[22:28:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[22:28:24] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[22:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[22:28:26] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Valecita is 72d41891-ad93-3e05-9294-82cec9447442
+[22:28:26] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 58 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, tlskincape, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:28:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Valecita[/127.70.108.189:35201] logged in with entity id 31,404 at (-2,359.431, 50, -3,576.473)
+[22:28:27] [Server thread/INFO] [Waila/]: Syncing config to Valecita (72d41891-ad93-3e05-9294-82cec9447442)
+[22:28:28] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Valecita (20)
+[22:28:28] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Valecita
+[22:28:34] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[22:28:34] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:28:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:34401] logged in with entity id 31,514 at (-1,613.773, 66.001, -3,047.32)
+[22:28:42] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[22:28:42] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matig64 is e0de66f3-6412-3bf5-a8a3-ce629ecb293a
+[22:28:42] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 61 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, litematica, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, skinlayers3d, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, offlineskins, tombstone, malilib, betterstrongholds, worldedit, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:28:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matig64[/127.10.201.242:58973] logged in with entity id 31,651 at (-29.27, 89, -408.804)
+[22:28:44] [Server thread/INFO] [Waila/]: Syncing config to Matig64 (e0de66f3-6412-3bf5-a8a3-ce629ecb293a)
+[22:28:47] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Matig64 (20)
+[22:28:47] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Matig64
+[22:28:47] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[22:28:47] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[22:28:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[22:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[22:30:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[22:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[22:31:01] [Async Chat Thread - 2/INFO] [/]: <zTryh> papu
+[22:31:11] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/32477, l='ServerLevel[world]', x=-1482.28, y=92.00, z=-3373.37] died, message: 'Villager suffocated in a wall'
+[22:31:40] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1299, y=15, z=-3312} but found not block entity block Block{minecraft:granite} at location
+[22:31:40] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1302, y=14, z=-3312} but found not block entity block Block{minecraft:stone} at location
+[22:31:40] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1308, y=13, z=-3310} but found not block entity block Block{minecraft:stone} at location
+[22:31:41] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1303, y=13, z=-3325} but found not block entity block Block{minecraft:granite} at location
+[22:31:41] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1308, y=13, z=-3314} but found not block entity block Block{minecraft:stone} at location
+[22:31:41] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1311, y=22, z=-3337} but found not block entity block Block{minecraft:stone} at location
+[22:35:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp Matig64 zTryh
+[22:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported Matig64 to zTryh]
+[22:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita was slain by Zombie Villager
+[22:35:45] [Server thread/INFO] [tombstone/]: The player Valecita has successfully been saved
+[22:36:03] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[22:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita was slain by Zombie Villager
+[22:36:05] [Server thread/INFO] [tombstone/]: The player Valecita has successfully been saved
+[22:36:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was frozen by Ice Dragon
+[22:36:19] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:36:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1382 66.5 -3868
+[22:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1381.5, 66.5, -3867.5]
+[22:36:55] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/33890, l='ServerLevel[world]', x=-1370.49, y=63.94, z=-3878.16] died, message: 'Villager was frozen by Ice Dragon'
+[22:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was frozen by Ice Dragon
+[22:37:00] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:37:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1382 69.5 -3858
+[22:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1381.5, 69.5, -3857.5]
+[22:37:11] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/33938, l='ServerLevel[world]', x=-1373.60, y=67.00, z=-3863.11] died, message: 'Villager was slain by Ice Dragon'
+[22:37:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was turned to ice by Ice Dragon
+[22:37:16] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:37:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1368 66.5 -3861
+[22:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1367.5, 66.5, -3860.5]
+[22:37:21] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/33860, l='ServerLevel[world]', x=-1388.47, y=71.94, z=-3859.09] died, message: 'Villager was turned to ice by Ice Dragon'
+[22:37:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Ice Dragon
+[22:37:55] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:38:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1323 64.5 -3816
+[22:38:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1322.5, 64.5, -3815.5]
+[22:38:04] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/33864, l='ServerLevel[world]', x=-1332.07, y=68.00, z=-3826.07] died, message: 'Toolsmith was frozen by Ice Dragon'
+[22:39:06] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[22:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Frostmaw
+[22:39:28] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:39:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1178 69.5 -3835
+[22:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1177.5, 69.5, -3834.5]
+[22:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Frostmaw
+[22:39:49] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:39:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1205 68.5 -3837
+[22:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1204.5, 68.5, -3836.5]
+[22:40:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was killed by Frostmaw using magic
+[22:40:19] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:40:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1198 66.5 -3786
+[22:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1197.5, 66.5, -3785.5]
+[22:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Frostmaw
+[22:40:43] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:40:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1186 68.5 -3807
+[22:40:51] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['zTryh'/31514, l='ServerLevel[world]', x=-1185.50, y=68.50, z=-3806.50](TextComponent{text='zTryh', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -1185.5,68.5,-3806.5) left loaded chunk area
+[22:40:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1185.5, 68.5, -3806.5]
+[22:40:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh was slain by Frostmaw
+[22:40:59] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[22:41:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -1183 68.5 -3808
+[22:41:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -1182.5, 68.5, -3807.5]
+[22:44:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[22:44:40] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[22:44:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[22:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 has made the advancement [Draconic Evolution]
+[22:46:24] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[22:46:24] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:46:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:37563] logged in with entity id 42,960 at (-1,580.662, 63, -3,804.899)
+[22:46:25] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[22:46:28] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[22:46:28] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[22:48:10] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-955, y=35, z=-3655}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-944, y=29, z=-3681}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-938, y=35, z=-3704}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-940, y=32, z=-3704}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-942, y=29, z=-3699}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-940, y=29, z=-3698}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-939, y=29, z=-3699}
+[22:48:13] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-944, y=34, z=-3705}
+[22:48:15] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-927, y=34, z=-3689}
+[22:51:08] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-585, y=21, z=-4065} but found not block entity block Block{minecraft:stone} at location
+[22:51:50] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-844, y=30, z=-4259} but found not block entity block Block{minecraft:stone} at location
+[22:51:50] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-846, y=34, z=-4260} but found not block entity block Block{minecraft:water}[level=0] at location
+[22:52:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita lost connection: Disconnected
+[22:52:37] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Valecita
+[22:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita left the game
+[22:52:44] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1171, y=23, z=-4228} but found not block entity block Block{minecraft:stone} at location
+[22:52:56] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Valecita is 72d41891-ad93-3e05-9294-82cec9447442
+[22:52:56] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 58 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, tlskincape, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[22:52:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Valecita[/127.70.108.189:44079] logged in with entity id 48,487 at (-2,359.576, 50, -3,560.594)
+[22:52:58] [Server thread/INFO] [Waila/]: Syncing config to Valecita (72d41891-ad93-3e05-9294-82cec9447442)
+[22:52:58] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Valecita (20)
+[22:52:58] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Valecita
+[22:54:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[22:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[22:55:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[22:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[22:55:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2359 50.5 -3527
+[22:55:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2358.5, 50.5, -3526.5]
+[22:59:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[22:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[23:00:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[23:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[23:01:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Dragon Growth Hormone]
+[23:02:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[23:02:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[23:02:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[23:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[23:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita has made the advancement [Dragon Growth Hormone]
+[23:03:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 has made the advancement [The Parrots and the Bats]
+[23:04:45] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita moved wrongly!
+[23:05:21] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh moved wrongly!
+[23:05:40] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matig64 moved wrongly!
+[23:05:57] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita moved wrongly!
+[23:06:13] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matig64 moved wrongly!
+[23:06:20] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita moved wrongly!
+[23:06:28] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh moved wrongly!
+[23:07:46] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matig64 moved wrongly!
+[23:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh fell from a high place
+[23:08:16] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[23:08:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2359 74.5 -3530
+[23:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2358.5, 74.5, -3529.5]
+[23:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Forged in Flame]
+[23:20:45] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.16.5-8c7caaf7 (MC: 1.16.5) ---
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: The server has not responded for 10 seconds! Creating thread dump
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Server thread dump (Look for plugins here before reporting to Mohist!):
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: Current Thread:Server thread
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	PID: 37 | Suspended:false | Native:false | State:RUNNABLE
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 	Stack:
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.HashMap.putVal(HashMap.java:638)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.util.HashMap.put(HashMap.java:608)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.nbt.CompoundNBT.func_218657_a(CompoundNBT.java:109)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		com.github.alexthe666.iceandfire.entity.props.MiscProperties.createDefaultData(MiscProperties.java:68)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		com.github.alexthe666.iceandfire.entity.props.MiscProperties.getOrCreateMiscData(MiscProperties.java:38)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		com.github.alexthe666.iceandfire.entity.props.MiscProperties.getOrCreateMiscData(MiscProperties.java:31)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		com.github.alexthe666.iceandfire.entity.props.MiscProperties.getLoveTicks(MiscProperties.java:81)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		com.github.alexthe666.iceandfire.event.ServerEvents.onEntityUpdate(ServerEvents.java:441)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraftforge.eventbus.ASMEventHandler_348_ServerEvents_onEntityUpdate_LivingUpdateEvent.invoke(.dynamic)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		app//net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		app//net.minecraftforge.eventbus.EventBus$$Lambda$2945/0x0000000840b7d840.invoke(Unknown Source)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		app//net.minecraftforge.eventbus.EventBus.post(EventBus.java:304)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		app//net.minecraftforge.eventbus.EventBus.post(EventBus.java:284)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraftforge.common.ForgeHooks.onLivingUpdate(ForgeHooks.java:335)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2577)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:346)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.entity.monster.CreeperEntity.func_70071_h_(CreeperEntity.java:153)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:812)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld$$Lambda$10738/0x0000000841c99440.accept(Unknown Source)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.World.func_217390_a(World.java:708)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:554)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:1099)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:345)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:1029)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:846)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		net.minecraft.server.MinecraftServer$$Lambda$8927/0x0000000841658c40.run(Unknown Source)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: 		java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[23:20:58] [Spigot Watchdog Thread/ERROR] [Minecraft/]: ------------------------------
+[23:25:00] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/world/PistonEvent$PistonMoveType
+[23:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita has made the advancement [Forged in Flame]
+[23:26:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[23:26:47] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[23:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[23:26:51] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[23:26:51] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[23:26:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:60799] logged in with entity id 59,288 at (-2,342.024, 77.335, -3,548.052)
+[23:26:52] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[23:27:03] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[23:27:03] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[23:29:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh has made the advancement [Draconic Evolution]
+[23:29:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Valecita lost connection: Disconnected
+[23:29:58] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Valecita
+[23:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valecita left the game
+[23:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 blew up
+[23:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh blew up
+[23:41:41] [Server thread/INFO] [tombstone/]: The player Matig64 has successfully been saved
+[23:41:41] [Server thread/INFO] [tombstone/]: The player zTryh has successfully been saved
+[23:41:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /tp @s -2347 46.5 -3524
+[23:41:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Teleported zTryh to -2346.5, 46.5, -3523.5]
+[23:51:12] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh was kicked for floating too long!
+[23:51:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Flying is not enabled on this server
+[23:51:21] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[23:51:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[23:51:25] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[23:51:25] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[23:51:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:47339] logged in with entity id 62,535 at (-2,322.655, 87.197, -3,589.693)
+[23:51:26] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[23:51:27] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[23:51:27] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[23:51:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hola
+[23:51:56] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/utils/StatueDialog$Case
+[23:51:58] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/recipe/bargain/BargainResult$FailedReason
+[23:52:51] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh was kicked for floating too long!
+[23:52:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Flying is not enabled on this server
+[23:52:51] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[23:52:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[23:52:51] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+[23:52:51] [Server thread/WARN] [/]: java.lang.NullPointerException
+[23:52:51] [Server thread/WARN] [/]: 	at com.github.alexthe666.iceandfire.event.ServerEvents.isRidingOrBeingRiddenBy(ServerEvents.java:164)
+[23:52:51] [Server thread/WARN] [/]: 	at com.github.alexthe666.iceandfire.message.MessageDragonControl$Handler.handle(MessageDragonControl.java:76)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114)
+[23:52:51] [Server thread/WARN] [/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:248)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:240)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:304)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:284)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:80)
+[23:52:51] [Server thread/WARN] [/]: 	at java.base/java.util.Optional.map(Optional.java:265)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:80)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:2646)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(PacketThreadUtil.java:22)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:967)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:174)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:950)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:944)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:930)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:850)
+[23:52:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[23:52:51] [Server thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[23:52:53] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player zTryh is a4df43a3-22d5-3c3a-879d-d4ffb9b130f5
+[23:52:54] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 57 mods : mowziesmobs, betterdungeons, supermartijn642configlib, rechiseled, infernalexp, limitedchunks, goblintraders, connectivity, bettercaves, waystones, clumps, fastasyncworldsave, modernfix, jei, citadel, yungsapi, sophisticatedbackpacks, lazydfu, starlight, pickupnotifier, iceandfire, fusion, magnesium_extras, fpsreducer, watut, usefulslime, paraglider, forge, supplementaries, embeddium, rubidium, selene, ironchest, dungeons_arise, minecraft, smoothchunk, voicechat, voicechat_api, jade, waila, supermartijn642corelib, spark, betterfpsdist, einsteins_library, spartanshields, xaerominimap, securitycraft, framedblocks, elevatorid, tombstone, betterstrongholds, coroutil, ferritecore, betterendermod, embeddiumextension, bettermineshafts, geckolib3
+[23:52:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zTryh[/127.0.0.231:34631] logged in with entity id 62,745 at (-2,320.141, 85.055, -3,566.159)
+[23:52:55] [Server thread/INFO] [Waila/]: Syncing config to zTryh (a4df43a3-22d5-3c3a-879d-d4ffb9b130f5)
+[23:53:05] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zTryh (20)
+[23:53:05] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zTryh
+[23:53:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode creative
+[23:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Creative Mode]
+[23:56:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh issued server command: /gamemode survival
+[23:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zTryh: Set own game mode to Survival Mode]
+[23:58:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zTryh lost connection: Disconnected
+[23:58:00] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zTryh
+[23:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zTryh left the game
+[23:59:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matig64 lost connection: Disconnected
+[23:59:43] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Matig64
+[23:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matig64 left the game
+[23:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23:59:57] [Server thread/INFO] [ce.ajneb97.ConditionalEvents/]: [ConditionalEvents] Disabling ConditionalEvents v4.73.1
+[23:59:57] [Server thread/INFO] [/]: [ConditionalEvents] Has been disabled! Version: 4.73.1
+[23:59:57] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin/]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
+[23:59:57] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v7.2.2+fc3c499
+[23:59:57] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:59:58] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:59:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[23:59:58] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:59:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[23:59:58] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:59:58] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:59:58] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:59:58] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
